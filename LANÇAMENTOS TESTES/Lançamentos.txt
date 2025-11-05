@@ -1,0 +1,26 @@
+Lançamento 1: 40 pontos
+
+1°: Perfeito
+2°: Quebrou a bandeira, fora isso perfeito
+3°: Perfeito(arrumou a programação pra bandeira não quebrar)
+4°: Perfeito
+5°: Anexo Quebrado, fez só a areia
+6°: Perfeito
+7°: Perfeito
+8°: Perfeito
+9°: Perfeito
+10°: Perfeito
+
+8 em 10, 80% de acerto
+
+Lançamento 2: 60 pontos
+
+1°: 20 pontos, Horrível
+2°: 20 pontos, Horrível
+3°: 30 pontos, Horrível
+4°: Quebrou a missão, -1 disco, 20 pontos na outra
+5°: 40 pontos, Médio
+Trocou a bateria
+6°: 40 pontos
+
+PARAMOS PARA ARRUMAR
